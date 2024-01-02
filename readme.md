@@ -61,7 +61,7 @@ This experience has enhanced my expertise in generative AI, reinforcement learni
       <h3 align="center"> Resume assistant</h3>
         <br />
       <a target="_blank">
-            <img src="resume.gif" width="600" height="600"></img>
+            <img src="resume.gif" width="600" height="300"></img>
         </a>
         <br />
         <p align="center">
