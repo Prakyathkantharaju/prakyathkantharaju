@@ -46,7 +46,7 @@ This experience has enhanced my expertise in generative AI, reinforcement learni
       <h3 align="center">Fine tune code assistant</h3>
         <br />
         <a target="_blank" href="http://.netlify.app">
-            <img src="background_3.png" width="100%"/>
+            <img src="background_3.png" width="50%"/>
         </a>
         <br />
         <p align="center">
@@ -79,7 +79,7 @@ This experience has enhanced my expertise in generative AI, reinforcement learni
       <h3 align="center">Human In the Loop toolkit</h3>
       <br />
         <a target="_blank" href="https://ieeexplore.ieee.org/document/10196448">
-          <img src="HIL_tookit.jpg" width="100%" alt="Portfolio" height = "30%"/>
+          <img src="HIL_tookit.jpg" width="50%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -115,7 +115,7 @@ This experience has enhanced my expertise in generative AI, reinforcement learni
       <h3 align="center">Learn to move</h3>
         <br />
         <a target="_blank" href="https://github.com/prakyathkantharaju/learn-to-move">
-          <img src="walker.gif" width="600" height="900"></img>
+          <img src="walker.gif" width="300" height="900"></img>
         </a>
         <br />
         <p align="center">
