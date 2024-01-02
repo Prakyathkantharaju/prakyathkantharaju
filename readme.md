@@ -61,7 +61,7 @@ This experience has enhanced my expertise in generative AI, reinforcement learni
       <h3 align="center"> Resume assistant</h3>
         <br />
       <a target="_blank">
-            <video src="resume.mp4" width="600" height="600" controls></video>
+            <img src="resume.gif" width="600" height="600"></img>
         </a>
         <br />
         <p align="center">
@@ -97,7 +97,7 @@ This experience has enhanced my expertise in generative AI, reinforcement learni
       <h3 align="center">Quadruped</h3>
         <br />
         <a target="_blank" href="https://github.com/prakyathkantharaju/Quadruped">
-          <video src="MOVIE.mp4" width="600" height="900" controls></video>
+          <img src="quad.gif" width="600" height="900" controls></img>
         </a>
         <br />
         <p align="center">
@@ -115,7 +115,7 @@ This experience has enhanced my expertise in generative AI, reinforcement learni
       <h3 align="center">Learn to move</h3>
         <br />
         <a target="_blank" href="https://github.com/prakyathkantharaju/learn-to-move">
-          <video src="walker.mp4" width="600" height="900" controls></video>
+          <img src="walker.gif" width="600" height="900"></img>
         </a>
         <br />
         <p align="center">
