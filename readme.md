@@ -22,7 +22,7 @@
 # Hello, HI!
  <!-- Profile views -->
  <!-- <img src="https://gpvc.arturio.dev/rahulkarda" align="center"> -->
- <img src="main_robot.png" align="right" height="300">
+ <img src="main_robot.png" align="right" height="200">
  
  <p align="left">I am Prakyath Kantharaju!
   
@@ -46,7 +46,7 @@ This experience has enhanced my expertise in generative AI, reinforcement learni
       <h3 align="center">Fine tune code assistant</h3>
         <br />
         <a target="_blank" href="http://.netlify.app">
-            <img src="background_3.png" width="50%"/>
+            <img src="background_3.png" width="60%"/>
         </a>
         <br />
         <p align="center">
@@ -79,7 +79,7 @@ This experience has enhanced my expertise in generative AI, reinforcement learni
       <h3 align="center">Human In the Loop toolkit</h3>
       <br />
         <a target="_blank" href="https://ieeexplore.ieee.org/document/10196448">
-          <img src="HIL_tookit.jpg" width="50%" alt="Portfolio"/>
+          <img src="HIL_tookit.jpg" width="70%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
