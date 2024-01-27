@@ -45,7 +45,7 @@ This experience has enhanced my expertise in generative AI, reinforcement learni
     <td width="50%" valign="top">
       <h3 align="center">Fine tune code assistant</h3>
         <br />
-        <a target="_blank" href="http://.netlify.app">
+        <a target="_blank" href="https://github.com/prakyathkantharaju/Fine_tune_Anything">
             <img src="background_3.png" width="60%"/>
         </a>
         <br />
