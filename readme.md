@@ -27,7 +27,7 @@
  <p align="left">I am Prakyath Kantharaju!
   
 I'm a Robotics and Machine Learning Engineer currently based in Chicago, originally from India. 
-My academic journey includes a PhD in wearable health robots, where I specialized in creating AI-powered solutions to improve quality of life.
+My academic journey includes a PhD in wearable health robots (robotic exoskeletons and prostheses), where I specialized in using personalization using ML.
 
 Beyond my academic pursuits, I have practical experience in applying AI to enterprise-level auto insurance claims, gained through a comprehensive internship. 
 This experience has enhanced my expertise in generative AI, reinforcement learning, and wearable robotics.
