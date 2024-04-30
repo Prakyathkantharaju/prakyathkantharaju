@@ -19,7 +19,7 @@
   </a>
 </p>
 
-# Hello, HI!
+# Hello!
  <!-- Profile views -->
  <!-- <img src="https://gpvc.arturio.dev/rahulkarda" align="center"> -->
  <img src="main_robot.png" align="right" height="200">
