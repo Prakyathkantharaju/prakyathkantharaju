@@ -5,7 +5,6 @@
 </div> -->
 
 
-# GitHub Stats 📈
 <!-- <a href="https://github.com/rahulkarda/rahulkarda">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakyathkantharaju&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
@@ -18,7 +17,6 @@
 <!-- <a href="https://github.com/prakyathkantharaju/prakyathkantharaju">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakyathkantharaju&theme=radical&hide_border=true)](https://github.com/prakyathkantharaju" alt="Rahul's GitHub Stats Graph"/>
 </a> -->
-<br><br>
 
 <!-- ![prakyath's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakyathkantharaju&count_private=true&show_icons=true&theme=radical&hide_border=true) -->
 <!-- 
