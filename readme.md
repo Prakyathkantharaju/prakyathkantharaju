@@ -1,8 +1,8 @@
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
 <a href="main_header.png" target="_blank">
     <img src="main_header.png" width="500" height="250">
 </a>
-</div>
+</div> -->
 
 
 # GitHub Stats 📈
@@ -15,9 +15,9 @@
 </a>
 <br><br> -->
 
-<a href="https://github.com/prakyathkantharaju/prakyathkantharaju">
+<!-- <a href="https://github.com/prakyathkantharaju/prakyathkantharaju">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakyathkantharaju&theme=radical&hide_border=true)](https://github.com/prakyathkantharaju" alt="Rahul's GitHub Stats Graph"/>
-</a>
+</a> -->
 <br><br>
 
 <!-- ![prakyath's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakyathkantharaju&count_private=true&show_icons=true&theme=radical&hide_border=true) -->
