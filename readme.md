@@ -89,5 +89,3 @@ A sample of my recent articles:
 - 📫 How to reach me - You can contact me on rahulkarda2002@gmail.com
 -->
   
-------
-Credit: Prakyath kantharju ( idea borrowed from rahulkarda)
